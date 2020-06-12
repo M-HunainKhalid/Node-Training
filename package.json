@@ -1,0 +1,23 @@
+{
+  "name": "node-training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hunainkhalid101/Node-Training.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hunainkhalid101/Node-Training/issues"
+  },
+  "homepage": "https://github.com/hunainkhalid101/Node-Training#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
