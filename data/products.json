@@ -1,1 +1,14 @@
-[{"title":"First Book"},{"title":"Second Book"},{"title":"Third Book"}]
+[
+  {
+    "title": "A Book",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
+    "description": "This is an awesome book!",
+    "price": "19"
+  },
+  {
+    "title": "Second Book",
+    "imageUrl": "http://www.technologyreview.pk/tech_dev/wp-content/uploads/2019/12/Animated-books-help-children-learn-better.jpg",
+    "description": "A very rare book.",
+    "price": "90"
+  }
+]
